@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-01.jpg",
+      "details": "Stylish Women Bag",
+      "price": "£75.00",
+      "previous": "",
+      "news": "Hot",
+      "bg": "bg-red-600"
+    },
+    {
+      "id": 2,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-02.jpg",
+      "details": "Stylish Watch For Man",
+      "price": "£75.00",
+      "previous": "£75.00",
+      "news": "-50%",
+      "bg": "bg-blue-600"
+    },
+    {
+      "id": 3,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-03.jpg",
+      "details": "Polo T-shirt For Man ",
+      "price": "£25.00",
+      "previous": "",
+      "news": "",
+      "bg": ""
+    },
+    {
+      "id": 4,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-04.jpg",
+      "details": "Luxury Wallet For Male",
+      "price": "£95.00",
+      "news": "New",
+      "previous": "",
+      "bg": "bg-slate-600"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/categories/category-01/image-01.jpg",
+      "details": "Accessories",
+      "product": "8 Products Available"
+    },
+    {
+      "id": 2,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/categories/category-01/image-02.jpg",
+      "details": "Bags",
+      "product": "4 Products Available",
+      "previous": "",
+      "news": "",
+      "bg": ""
+    },
+    {
+      "id": 3,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/categories/category-01/image-03.jpg",
+      "details": "Electronics",
+      "product": "12 Products Available",
+      "previous": "",
+      "news": "",
+      "bg": ""
+    },
+    {
+      "id": 4,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/categories/category-01/image-04.jpg",
+      "details": "Shoes",
+      "product": "24 Products Available",
+      "previous": "",
+      "news": "",
+      "bg": ""
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "img": "https://akashskillhub.github.io/planet/src/assets/images/blogs/blog-01/image-01.jpg",
+      "details": "Meet AutoManage, the best AI management tools",
+      "date": "Dec 22, 2023"
+    },
+    {
+      "id": 2,
+      "img": "https://akashskillhub.github.io/planet/src/assets/images/blogs/blog-01/image-02.jpg",
+      "details": "How to earn more money as a wellness coach",
+      "date": "Mar 15, 2023"
+    },
+    {
+      "id": 3,
+      "img": "https://akashskillhub.github.io/planet/src/assets/images/blogs/blog-01/image-03.jpg",
+      "details": "The no-fuss guide to upselling and cross selling",
+      "date": "Jan 10, 2023"
+    }
+  ],
+  "fav": [
+    {
+      "id": 2,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-02.jpg",
+      "details": "Stylish Watch For Man",
+      "price": "£75.00",
+      "previous": "£75.00",
+      "news": "-50%",
+      "bg": "bg-blue-600"
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "img": "https://akashskillhub.github.io/planet/src/assets/ecom-images/products/product-carousel-02/image-02.jpg",
+      "details": "Stylish Watch For Man",
+      "price": "£75.00",
+      "previous": "£75.00",
+      "news": "-50%",
+      "bg": "bg-blue-600"
+    }
+  ]
+}
